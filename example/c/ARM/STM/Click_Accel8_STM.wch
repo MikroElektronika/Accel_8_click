@@ -1,0 +1,4 @@
+<WCH v="2">
+<item n="accel8_getTemperature_Temp_out_L0" r="0" s="False" e="True" i="0"/>
+<item n="accel8_gyroConfig_range_L0" r="0" s="False" e="True" i="1"/>
+</WCH>

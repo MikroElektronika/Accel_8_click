@@ -1,0 +1,7 @@
+module Click_Accel8_config
+
+include Click_Accel8_types
+const
+    _ACCEL8_I2C_CFG as uint32_t[1] = (100000)
+    
+end.
